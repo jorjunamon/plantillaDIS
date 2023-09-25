@@ -42,7 +42,7 @@ public class MainView extends VerticalLayout {
      */
     public MainView() {
 
-        Label Title = new Label("Examen DIS ");
+        Label Title = new Label("Examen DIS Jorge Jimenez");
         Title.addClassName("title");
         Title.addClassName("centered-content");
         add(Title);
